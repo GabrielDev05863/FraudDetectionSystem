@@ -1,0 +1,4 @@
+Amount,Hour,Country,IsFraud
+100,10,1,false
+2000,3,2,true
+50,15,1,false
